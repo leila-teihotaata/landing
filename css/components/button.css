@@ -1,0 +1,15 @@
+.btn-blue {
+	background-color: dodgerblue;
+	padding: 10px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	opacity: 0,7;
+}
+
+.btn-blue:hover {
+	background-color: firebrick;
+	color: white;
+	opacity: 0,9;
+}

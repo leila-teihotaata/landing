@@ -1,0 +1,14 @@
+.introduction {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.introduction {
+	display:inline-block;
+    padding: 30px;
+    height: 220px;
+    flex-grow: 0.8;
+    align-content: start;
+    width: 100%
+    opacity: 1;
+}

@@ -1,0 +1,29 @@
+.picture {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.picture {
+    padding: 15px;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+    border-radius: 6px;
+    margin: 10px;
+    flex-basis: fill;
+    flex-grow: 1;
+}
+
+.picture img {
+    width: 350px;
+    height: 220px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+
+.picture h3 {
+    flex-grow: 1;
+    font-size: 18px;
+}

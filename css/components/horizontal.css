@@ -1,0 +1,14 @@
+.horizontal p {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.horizontal p {
+	display: inline-flex;
+	height: 300px;
+	text-align: center;
+    justify-content: center;
+    margin-left: -225px;
+    margin-top: -525px;
+    font-size: 42px;
+}

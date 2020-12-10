@@ -1,0 +1,13 @@
+.corpsdusite {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.corpsdusite {
+    border-radius: 6px;
+    flex-basis: 10px;	
+    padding-right: 55px;
+    margin-left: 225px;
+
+}

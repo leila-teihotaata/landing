@@ -1,0 +1,26 @@
+.détails {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.détails {
+    border-radius: 6px;
+    flex-basis: 10px;
+    opacity: 1;
+    padding-top: 20px;
+    padding-right: 50px;
+    margin-left: 225px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.détails p {
+    font-size: 16px;
+    text-align: justify;
+    padding-right: 5px;
+}
+
+.détails h2 {
+    margin-bottom: 20px;
+    margin-top: 45px;
+}
